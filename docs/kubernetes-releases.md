@@ -1,5 +1,28 @@
 # Kubernetes Releases
 
+## September 2026 checkpoint
+
+Use the official sources below as the source of truth for the release line and
+support window you operate. Kubernetes releases are supported for a limited
+period, so do not select a version from an old article without checking its
+current status.
+
+- [Kubernetes releases](https://kubernetes.io/releases/) — current release
+  lines, release notes, and end-of-life dates.
+- [Kubernetes release history](https://github.com/kubernetes/kubernetes/releases)
+  — source releases and changelogs.
+- [Version skew policy](https://kubernetes.io/releases/version-skew-policy/) —
+  supported version relationships between control-plane and node components.
+- [Deprecation guide](https://kubernetes.io/docs/reference/using-api/deprecation-guide/)
+  — API removals and migration guidance.
+- [Kubernetes upgrade documentation](https://kubernetes.io/docs/tasks/administer-cluster/cluster-upgrade/)
+  — preparation, upgrade, and validation steps.
+- [Kubernetes enhancement proposals](https://github.com/kubernetes/enhancements/tree/master/keps)
+  — design context for features before relying on them in production.
+
+The dated links below are retained as historical reading. Prefer the upstream
+release notes and documentation when studying a current cluster.
+
 - [==relnotes.k8s.io: Kubernetes Release Notes==](https://relnotes.k8s.io) **Tip: Click on "deprecation" and select "releaseVersions: 1.x**
 - [sysdig.com: What’s new in Kubernetes 1.20?](https://sysdig.com/blog/whats-new-kubernetes-1-20/)
 - [magalix: What You Should Know about Kubernetes 1.20](https://www.magalix.com/blog/what-you-should-know-about-kubernetes-1.20)

@@ -109,6 +109,7 @@ nav:
   - Docker: docker.md
   - K8s:
     - Kubernetes: kubernetes.md
+    - Kubernetes 2026 study and operations refresh: kubernetes-2026-refresh.md
     - Kubernetes Tutorials: kubernetes-tutorials.md
     - Kubernetes Plugins, Tools, Extensions and Projects: kubernetes-tools.md
     - kubectl Commands: kubectl-commands.md
@@ -275,7 +276,7 @@ nav:
     - Remote Tech Jobs: remote-tech-jobs.md
   - Clients: customer.md
   - About: about.md
-copyright: 2024 <a href="https://twitter.com/nubenetes">Nubenetes</a>, <a href="https://nubenetes.com/about/">about</a>.
+copyright: 2026 <a href="https://twitter.com/nubenetes">Nubenetes</a>, <a href="https://nubenetes.com/about/">about</a>.
 extra:
   analytics:
     provider: google
